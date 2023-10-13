@@ -12,7 +12,7 @@ Remember you need to change the ip address and port manually in the code.
 
 
 
-Everyone is welcome to suggest the how to stable the windows reverse shell.
+Everyone is welcome to suggests how to stable the windows reverse shell.
 
 
 
