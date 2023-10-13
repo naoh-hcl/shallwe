@@ -4,7 +4,7 @@ The code in the hel.py actually create a reverse shell inside the target.
 Even it is a windows or linux operating system
 
 
-But the windows reverse shell is not stable than the linux.
+But the windows reverse shell is less stable than the linux.
 
 You can recieve the reverse shell by using netcat in your machine.(possibly you knew about that, didn't you?)
 
