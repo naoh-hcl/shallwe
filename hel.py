@@ -8,6 +8,8 @@ import platform
 import socket
 
 
+author = "Gokul B"
+
 class Details:
     def __init__(self):
         self.os = os.name
